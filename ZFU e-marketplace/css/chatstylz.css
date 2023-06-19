@@ -1,0 +1,39 @@
+/* CSS Document */
+
+b
+{
+	text-decoration:none;
+	color:#FFF;	
+}
+
+.uname{
+	color:#009;
+	font-size:14px;
+	font-weight:bold;
+}
+.msg{
+	color:#F00;
+	font-size:14px;
+}
+.button{
+    padding: 10px 15px;
+    background: #4479BA;
+    color: #FFF;
+	position:absolute;
+}
+#chatlogs{
+	background:#FFF;
+	padding:5px;
+	height:400px;
+	overflow:scroll;	
+}
+
+
+aq{
+	color:#069;
+	text-decoration:none;
+}
+aq:hover{
+	text-decoration:underline;
+}
+
